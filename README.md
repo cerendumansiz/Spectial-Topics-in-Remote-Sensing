@@ -1,1 +1,2 @@
 # Spectial-Topics-in-Remote-Sensing
+Normalized Difference Water Index (NDWI) was proposed by McFeeters .NDWI is an index that minimizes the reflectance of water in NIR band and maximize the reflectance of the water in green band . NDWI varies between -1 to +1. NDWI > 0 is a water class and NDWI ≤ 0 designates non-water. In some studies it demonstrates that NDWI can be effectively used for accurate water detection in combination with geospatial parallel processing platforms, such as Google Earth Engine. In this study it is used NDWI for seperating water from other classes.
